@@ -1,6 +1,6 @@
 Команда которая генерирует промо коды и записывает в promo_codes.json:
 
-python manage.py generate_promocodes --ammount {value} --gourp {value}
+python manage.py generate_promocodes --ammount {value} --group {value}
 
 _________________________________________________________________________
 
