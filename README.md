@@ -6,4 +6,4 @@ _________________________________________________________________________
 
 Команда которая проверяет промокод на существование:
 
-python manage.py check_promocode {code}
+python manage.py check_promocode "{code}"
